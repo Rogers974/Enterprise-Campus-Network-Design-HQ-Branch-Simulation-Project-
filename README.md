@@ -1,3 +1,4 @@
+<img width="1198" height="659" alt="1 Topology Diagram" src="https://github.com/user-attachments/assets/ac3a654c-9257-40c5-ae4e-3d4c356762ee" />
 # Enterprise-Campus-Network-Design-HQ-Branch-Simulation-Project-
 I designed and simulated a secure, scalable campus network connecting a Head Office and Branch campus with high availability, segmentation, and security best practices.
 The solution focuses on scalability, redundancy, and security using Cisco technologies.
