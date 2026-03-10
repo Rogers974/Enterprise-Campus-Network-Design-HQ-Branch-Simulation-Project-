@@ -27,3 +27,7 @@ The solution focuses on scalability, redundancy, and security using Cisco techno
 - Core Layer (Catalyst 3850)
 - Distribution Layer
 - Access Layer (Catalyst 2960)
+
+## Author
+
+Engineer Rogers Mulyowa
